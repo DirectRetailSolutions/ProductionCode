@@ -1,0 +1,5 @@
+{
+    "name": "DRSGoCore",
+    "type": "Script"
+    "content": 'print("Hello from GitHub!")'
+}
